@@ -1,0 +1,35 @@
+# 불린(Boolean)
+print(True)
+print(False)
+
+print("-------------")
+print(True and True)
+print(True and False)
+print(False and True)
+print(False and False)
+
+print("-------------")
+print(True or True)
+print(True or False)
+print(False or True)
+print(False or False)
+
+print("-------------")
+print(not True)
+print(not False)
+
+print("-------------")
+print(2 > 1)
+print(2 < 1)
+print(3 >= 2)
+print(3 <= 3)
+print(2 == 2)
+print(2 != 2)
+
+print("-------------")
+print("Hello" == "Hello")
+print("Hello" != "Hello")
+
+print("-------------")
+print(not not False)
+print(not not True)
